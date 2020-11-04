@@ -1,2 +1,2 @@
 # Android
-Projects on Android.
+Project on Android.
