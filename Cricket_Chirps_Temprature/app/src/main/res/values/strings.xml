@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My first</string>
+    <string name="it_s_a_thermometer">It\'s a thermometer</string>
+    <string name="number_of_chirps_per_25_seconds">number of chirps per 25 seconds</string>
+    <string name="textView">TextView</string>
+    <string name="calculate">Calculate</string>
+    <string name="todo">TODO</string>
+    <string name="i_ts_a_cricket_chirp_thermometer">I\'ts a cricket chirp thermometer</string>
+</resources>
